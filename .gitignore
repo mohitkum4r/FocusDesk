@@ -1,0 +1,9 @@
+# macOS System Files
+.DS_Store
+
+# Build Output
+/build/
+
+# Temporary / Cache Files
+*.swp
+*~
