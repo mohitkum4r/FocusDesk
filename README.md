@@ -6,6 +6,20 @@ FocusDesk is a modern, lightweight, 100% local macOS menu bar utility designed t
   <img src="src/app_icon.png" width="160" height="160" alt="FocusDesk Logo" style="border-radius: 32px;" />
 </p>
 
+## 🚀 Download & Install
+
+You can download the pre-compiled app directly without needing to build from source:
+
+1. Go to the [Latest Releases Page](https://github.com/mohitkum4r/FocusDesk/releases/latest).
+2. Download the **`FocusDesk.zip`** asset.
+3. Unzip the file and drag **`FocusDesk.app`** to your **`/Applications`** directory.
+4. Open the app!
+
+> [!NOTE]
+> Since this app is compiled locally and is ad-hoc signed, macOS Gatekeeper may show a warning on first launch.
+> To open it, **Right-click (Control-click)** the app icon and click **Open**, or go to **System Settings > Privacy & Security** and click **Open Anyway**.
+
+
 ## Key Features
 
 - **Isolate Workspace**: Instantly hides/minimizes all other windows, leaving only the active frontmost window visible.
